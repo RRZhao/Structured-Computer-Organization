@@ -2,6 +2,6 @@
 
 > Sixth Edition
 
-# Catalog
+# 目录
 
-- [Chapter 1 : Introduction](https://github.com/RRZhao/Structured-Computer-Organization/blob/master/Chapter-1-Introduction.md)
+- [第一章 : 概述](https://github.com/RRZhao/Structured-Computer-Organization/blob/master/Chapter-1-Introduction.md)
