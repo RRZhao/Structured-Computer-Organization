@@ -1,4 +1,4 @@
 # Structured-Computer-Organization
-Sixth Edition
+> Sixth Edition
 
-Reading notes
+Reading notes and experience
