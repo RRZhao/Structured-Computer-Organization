@@ -1,8 +1,6 @@
-# Structured-Computer-Organization
+# Structured-Computer-Organization(reading notes)
 
 > Sixth Edition
-
-_My reading notes and experience_
 
 # Catalog
 
